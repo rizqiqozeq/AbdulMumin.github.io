@@ -1,2 +1,4 @@
-_github-pages-challenge-rizqiqozeq
-b208c011e03d93b4aee63b71bb2f57
+1. Create a TXT record in your DNS configuration for the following hostname: _github-pages-challenge-rizqiqozeq.abdmn.com
+2. Use this code for the value of the TXT record: b208c011e03d93b4aee63b71bb2f57
+3. Wait until your DNS configuration changes. This could take up to 24 hours to propagate.
+  
